@@ -31,7 +31,7 @@ Shampoo Bamboo Kobbie Mainoo
     </a>
   </div>
   <div>
-    <img src="https://github.com/YXSGunsou/XSGunsou/raw/main/hello.gif" />
+    <img src="https://github.com/XSGunsou/XSGunsou/raw/main/hello.gif" />
   </div>
 </div>
 
