@@ -25,10 +25,10 @@ Shampoo Bamboo Kobbie Mainoo
 ### Badges and GIF
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/XSGunsou" style="margin-right: 10px;">
+  <a href="https://github.com/XSGunsou" style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSGunsou&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
-  <img src="https://github.com/XSGunsou/XSGunsou/raw/main/hello.gif" width="150" height="150" />
+  <img src="https://github.com/XSGunsou/XSGunsou/raw/main/hello.gif" width="250" height="200" />
 </div>
 
 ### Support Me
