@@ -1,4 +1,4 @@
-Hi there, I am Gunsou[](https://cdn.discordapp.com/attachments/870586104695377980/1257000633139986525/a_5560ab562e4ac55db85b57ff57390413.gif?ex=669dd750&is=669c85d0&hm=fa838756de4fb60dfb7235112a61b242f4384ef4f38e163068f2d1930b7f83b2&)
+Hi there, I am Gunsou[](https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png)
 ==============================================================================================================================
 
 Web Developer
