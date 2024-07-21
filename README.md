@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gunsou
+Hi there, I am Gunsou[](https://cdn.discordapp.com/attachments/870586104695377980/1257000633139986525/a_5560ab562e4ac55db85b57ff57390413.gif?ex=669dd750&is=669c85d0&hm=fa838756de4fb60dfb7235112a61b242f4384ef4f38e163068f2d1930b7f83b2&)
 ==============================================================================================================================
 
 Web Developer
