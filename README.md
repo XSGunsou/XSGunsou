@@ -8,7 +8,7 @@ Shampoo Bamboo Kobbie Mainoo
 
 * 🌍  I'm based in In your heart
 * 🖥️  See my portfolio at [Click Me!](http://adasd)
-[![Contact](https://img.shields.io/badge/Contact-&#128231;-blue.svg)](mailto:mixx.ownjeen@gmail.com)
+* [![Contact](https://img.shields.io/badge/Contact-&#128231;-blue.svg)](mailto:mixx.ownjeen@gmail.com)
 
 ### Skills
 
